@@ -6,9 +6,9 @@ The point was knowing what to build, how to structure it, and why it should work
 
 ### The shift
 
-- ~~"I write PHP"~~ &rarr; I architect solutions, AI writes the code
-- ~~One framework~~ &rarr; Whatever fits. Laravel, Go, Python, doesn't matter
-- ~~Weeks per feature~~ &rarr; Ideas ship in hours
+- ~~"I write PHP"~~ &rarr; I architect solutions, AI handles the implementation
+- ~~One framework~~ &rarr; Whatever fits the problem. Laravel, Go, Python
+- ~~Weeks per feature~~ &rarr; Ideas reach production faster than ever
 
 ### What AI doesn't replace
 
@@ -18,7 +18,7 @@ Systems thinking. Knowing why your database will choke at 10k RPS. Understanding
 
 ### Now
 
-I design systems and let AI implement them. I build AI-powered dev workflows that make the whole process feel unreasonably fast. Most of my code is written by agents I orchestrate.
+I design systems and build them with AI agents — architect the solution, orchestrate the implementation. The dev workflows I've built make the whole process feel unreasonably fast.
 
 Turns out, the best use of a decade of engineering experience is telling AI exactly what to do.
 
