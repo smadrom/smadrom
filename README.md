@@ -24,4 +24,4 @@ Turns out, the best use of a decade of engineering experience is telling AI exac
 
 ---
 
-🟢 **Open to freelance projects** · 📫 sn.one.dev@gmail.com
+🟢 **Open to projects** · 📫 sn.one.dev@gmail.com
